@@ -1,5 +1,4 @@
 #guess the number game
-
 import random #random module
 import time #time module
 
@@ -7,7 +6,6 @@ print("Hello! What is your name?")
 name = input()
 print("Hello there, " + name + "! " + "I am thinking of a number")
 print("berween 1 and 22. Think you can guess it!?")
-
 
 time.sleep(1) #wait one second before moving onto the for loop (inside while loop)
 
