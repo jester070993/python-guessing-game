@@ -9,7 +9,7 @@ print("berween 1 and 22. Think you can guess it!?")
 
 time.sleep(1) #wait one second before moving onto the for loop (inside while loop)
 
-t = True #sets t to bool True to put into while loop
+t = True #sets t to bool True to satisfy into while loop
 
 while(t): #loop keeps running while condition is true
     randomNum = random.randint(1, 22) #selects random number between 1 and 22
